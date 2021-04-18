@@ -1,0 +1,20 @@
+/* Estilos */
+body{
+    font-family: ;
+}
+h2{
+    color:#4481eb;
+}
+
+p{
+    color: #9c27b0;;
+}
+.p-naranja{
+    color: orange;
+}
+div p{
+    color: red;
+}
+section, nav{
+    background-color: rgba(48, 44, 43,0.5);
+} 
